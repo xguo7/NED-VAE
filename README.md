@@ -1,5 +1,5 @@
 # Interpretable Deep Graph Generation with Node-edge Co-disentanglement (NED-VAE)
-![image_text](images/architecture.png)
+![image_text](images/architecture.pdf)
 
 This repository is the official Tensorflow implementation of NEC-VAE (initial version), an interpretable graph generation model.
 
